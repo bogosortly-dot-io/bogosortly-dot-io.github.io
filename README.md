@@ -1,3 +1,3 @@
-# bogosortly-dot-io.github.io
+# Weekly Lions Game Takeaways
 
 [week one](./week_one)
