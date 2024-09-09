@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Week One"
 permalink: /week_one
 ---
