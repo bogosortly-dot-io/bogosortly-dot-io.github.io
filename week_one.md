@@ -6,5 +6,10 @@ permalink: /week_one
 
 # Week One
 
-- Here is an example thought
-- Here is another example thought
+## defense 
+
+**Alex Anzalone** 
+here are some thoughts about Alex
+
+**Hutch** 
+here are some thoughts about Hutch
